@@ -1,7 +1,6 @@
 public class Banco {
     
-protected String nome;
-
+public String nome;
 
 
 }
